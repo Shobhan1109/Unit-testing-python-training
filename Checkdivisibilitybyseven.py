@@ -15,5 +15,5 @@ class check7app(unittest.TestCase):
         r=checkdiv(x)
         self.assertFalse(r)
 
-if __name__=="__main__":
+if __name__=="__main__0":
     unittest.main()
